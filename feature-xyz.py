@@ -1,1 +1,1 @@
-code writen from teminal
+code changed from github
